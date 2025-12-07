@@ -1,0 +1,5 @@
+{
+  "name": "AI 肖像写真馆",
+  "description": "专业的 AI 摄影工作室，利用 Nano Banana 模型将您的肖像照片转换为 6 种不同风格的写真。",
+  "requestFramePermissions": []
+}
